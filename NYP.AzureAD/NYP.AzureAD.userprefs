@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{83B68BDE-DECF-4CAA-8979-8C70FE4EDB08}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NYP.AzureAD PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
